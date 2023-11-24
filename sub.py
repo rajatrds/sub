@@ -1,4 +1,4 @@
-#!/usr/bin/python
+6#!/usr/bin/python
 #Original written By Muhmmad Sarfraz
 
 import os,zlib
@@ -168,7 +168,7 @@ def method_crack():
     elif option =='3':
         methods.append('methodC')
         main_crack().crack(id)
-     elif option =='4':
+    # elif option =='4':
           methods.append('methodD')
           main_crack().crack(id)
     elif option =='0':
