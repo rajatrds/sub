@@ -169,8 +169,8 @@ def method_crack():
         methods.append('methodC')
         main_crack().crack(id)
     # elif option =='4':
-          methods.append('methodD')
-          main_crack().crack(id)
+         # methods.append('methodD')
+        #  main_crack().crack(id)
     elif option =='0':
         sarfraz()
     else:
